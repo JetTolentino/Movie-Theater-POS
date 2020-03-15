@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Schedule
+comment1.params=gui
+comment1.target=Schedule(GUI)
+comment2.params=time
+comment2.target=void\ setSchedule(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTime()
+comment4.params=
+comment4.target=SeatGroup\ getSeatGroup()
+numComments=5
